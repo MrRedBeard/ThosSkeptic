@@ -100,6 +100,10 @@
     <Content Include="Content\js\jquery.min.js" />
     <Content Include="Content\js\html5shiv.min.js" />
     <Content Include="Content\js\respond.min.js" />
+    <Content Include="Content\css\style.css" />
+    <Content Include="Content\css\ie10-viewport-bug-workaround.css" />
+    <Content Include="Content\js\ie10-viewport-bug-workaround.js" />
+    <Content Include="Content\js\ie8-responsive-file-warning.js" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Content\fonts\fontawesome-webfont.woff2" />
