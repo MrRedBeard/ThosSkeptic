@@ -9,6 +9,7 @@ namespace ThosSkeptic.Controllers
 {
 	public class HomeController : Controller
 	{
+
 		public ActionResult Index()
 		{
 			var mvcName = typeof(Controller).Assembly.GetName();
@@ -17,6 +18,27 @@ namespace ThosSkeptic.Controllers
 			ViewData["Version"] = mvcName.Version.Major + "." + mvcName.Version.Minor;
 			ViewData["Runtime"] = isMono ? "Mono" : ".NET";
 
+			return View();
+		}
+
+
+		public ActionResult BlogLatest()
+		{
+			return View();
+		}
+
+		public ActionResult Blog()
+		{
+			return View();
+		}
+
+		public ActionResult SignIn()
+		{
+			return View();
+		}
+
+		public ActionResult Carousel()
+		{
 			return View();
 		}
 	}

@@ -67,6 +67,7 @@
     <Folder Include="Content\js\" />
     <Folder Include="Content\css\" />
     <Folder Include="Content\fonts\" />
+    <Folder Include="Content\imgs\" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Controllers\HomeController.cs" />
@@ -105,6 +106,16 @@
     <Content Include="Content\js\ie10-viewport-bug-workaround.js" />
     <Content Include="Content\js\ie8-responsive-file-warning.js" />
     <Content Include="Content\js\ie-emulation-modes-warning.js" />
+    <Content Include="Views\Home\Blog.cshtml" />
+    <Content Include="Views\Home\BlogLatest.cshtml" />
+    <Content Include="Content\css\theme.css" />
+    <Content Include="Views\Home\SignIn.cshtml" />
+    <Content Include="Views\Home\Carousel.cshtml" />
+    <Content Include="Content\js\holder.min.js" />
+    <Content Include="Content\js\docs.min.js" />
+    <Content Include="Content\imgs\Slider1.png" />
+    <Content Include="Content\imgs\Slider2.png" />
+    <Content Include="Content\imgs\Slider3.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Content\fonts\fontawesome-webfont.woff2" />
