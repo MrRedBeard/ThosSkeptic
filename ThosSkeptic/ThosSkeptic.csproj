@@ -104,6 +104,7 @@
     <Content Include="Content\css\ie10-viewport-bug-workaround.css" />
     <Content Include="Content\js\ie10-viewport-bug-workaround.js" />
     <Content Include="Content\js\ie8-responsive-file-warning.js" />
+    <Content Include="Content\js\ie-emulation-modes-warning.js" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Content\fonts\fontawesome-webfont.woff2" />
