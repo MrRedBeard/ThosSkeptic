@@ -116,6 +116,8 @@
     <Content Include="Content\imgs\Slider1.png" />
     <Content Include="Content\imgs\Slider2.png" />
     <Content Include="Content\imgs\Slider3.png" />
+    <Content Include="Views\Home\Examples.cshtml" />
+    <Content Include="Views\Home\GridsExample.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Content\fonts\fontawesome-webfont.woff2" />
