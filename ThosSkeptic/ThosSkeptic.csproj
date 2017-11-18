@@ -118,6 +118,9 @@
     <Content Include="Content\imgs\Slider3.png" />
     <Content Include="Views\Home\Examples.cshtml" />
     <Content Include="Views\Home\GridsExample.cshtml" />
+    <Content Include="Views\Home\MarketingLandingExample.cshtml" />
+    <Content Include="Views\Home\Carousel2.cshtml" />
+    <Content Include="Views\Home\Dashboard.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Content\fonts\fontawesome-webfont.woff2" />

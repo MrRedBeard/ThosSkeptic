@@ -42,12 +42,27 @@ namespace ThosSkeptic.Controllers
 			return View();
 		}
 
+		public ActionResult Carousel2()
+		{
+			return View();
+		}
+
 		public ActionResult Examples()
 		{
 			return View();
 		}
 
 		public ActionResult GridsExample()
+		{
+			return View();
+		}
+
+		public ActionResult MarketingLandingExample()
+		{
+			return View();
+		}
+
+		public ActionResult Dashboard()
 		{
 			return View();
 		}
